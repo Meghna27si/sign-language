@@ -1,0 +1,8 @@
+Sign language recognition is a crucial step towards bridging the communication gap between the hearing-impaired and the rest of the world. This project leverages computer vision and machine learning to recognize and interpret hand gestures into sign language.
+
+Features
+Real-time hand gesture recognition
+Support for various sign language alphabets
+User-friendly interface for live testing
+Pre-trained models for quick deployment
+Modular code structure for easy customization and extension
